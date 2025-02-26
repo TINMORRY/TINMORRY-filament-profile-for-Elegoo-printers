@@ -1,0 +1,31 @@
+{
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_retraction_length": [
+        "1.2"
+    ],
+    "filament_settings_id": [
+        "PLA-Matte (Elegoo 4Pro-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Elegoo Generic PLA Matte",
+    "is_custom_defined": "0",
+    "name": "PLA-Matte (Elegoo 4Pro-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "2.2.0.4"
+}
