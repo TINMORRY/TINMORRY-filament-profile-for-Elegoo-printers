@@ -1,0 +1,34 @@
+{
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_settings_id": [
+        "PLA(Elegoo3pro-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Elegoo Generic PLA Matte",
+    "is_custom_defined": "0",
+    "name": "PLA(Elegoo3pro-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "version": "2.2.0.4"
+}
