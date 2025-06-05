@@ -1,0 +1,40 @@
+{
+    "compatible_printers": [
+        "Elegoo Centauri Carbon 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_retraction_length": [
+        "1.1"
+    ],
+    "filament_settings_id": [
+        "PETG-CF(Elegoo Centauri Carbon-Orca-TINMORRY)"
+    ],
+    "filament_type": [
+        "PETG-CF"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG-CF @System",
+    "is_custom_defined": "0",
+    "name": "PETG-CF(Elegoo Centauri Carbon-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "pressure_advance": [
+        "0.035"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.3.0.3"
+}
