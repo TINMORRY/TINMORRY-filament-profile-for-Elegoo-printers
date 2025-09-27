@@ -1,0 +1,25 @@
+{
+    "compatible_printers": [
+        "Elegoo Centauri Carbon 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_settings_id": [
+        "ASA(Centauri  Carbon-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Generic ASA @System",
+    "is_custom_defined": "0",
+    "name": "ASA(Centauri  Carbon-Orca-TINMORRY)",
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.3.0.3"
+}
