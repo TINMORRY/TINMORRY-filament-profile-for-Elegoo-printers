@@ -1,0 +1,31 @@
+{
+    "compatible_printers": [
+        "Elegoo Centauri Carbon 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PLA-Matte(Centauri Carbon-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "PLA-Matte(Centauri Carbon-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.3.0.3"
+}
