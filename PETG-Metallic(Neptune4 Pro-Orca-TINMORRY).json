@@ -1,0 +1,40 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_retraction_length": [
+        "1.2"
+    ],
+    "filament_settings_id": [
+        "Metallic PETG(Neptune4 Pro-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @Elegoo",
+    "is_custom_defined": "0",
+    "name": "Metallic PETG(Neptune4 Pro-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "2.3.0.3"
+}
