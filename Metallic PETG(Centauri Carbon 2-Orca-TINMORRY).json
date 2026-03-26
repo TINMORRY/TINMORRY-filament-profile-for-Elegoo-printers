@@ -1,0 +1,45 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_max_speed": [
+        "90"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_settings_id": [
+        "Metallic PETG(Centauri Carbon 2-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "TINMORRY PETG Metallic @Elegoo Centauri Carbon 2 0.4 nozzle",
+    "name": "Metallic PETG(Centauri Carbon 2-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "235"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.3.2.60"
+}
